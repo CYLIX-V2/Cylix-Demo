@@ -161,38 +161,6 @@ docs/assets/screenshots/
 
 ---
 
-## Live Demo Site (GitHub Pages)
-
-This repository is structured so you can host a **simple public demo site** via GitHub Pages.
-
-- The main landing page lives at: `docs/index.md`
-- It includes:
-  - Product overview
-  - Feature highlights
-  - Screenshot gallery
-  - FAQ for buyers and MSSPs
-
-Once GitHub Pages is enabled for this repo ("Deploy from `docs/`"), visitors will see a lightweight marketing site built from these files.
-
----
-
-## How to Enable GitHub Pages for This Repo
-
-1. Go to **Settings → Pages** in `CYLIX-V2/Cylix-Demo`.
-2. Under **Source**, select:
-   - **Branch:** `main`
-   - **Folder:** `/docs`
-3. Click **Save**.
-4. After a short build, your site will be available at a URL like:
-
-   ```text
-   https://cylix-v2.github.io/Cylix-Demo
-   ```
-
-(Actual URL will depend on your GitHub org/user settings.)
-
----
-
 ## For Buyers & MSSPs
 
 If you are evaluating Cylix and want:
