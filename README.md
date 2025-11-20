@@ -1,6 +1,6 @@
 # Cylix Demo Platform
 
-A high-level, **buyer-friendly demo** of the Cylix AI-driven cybersecurity and purple-team validation platform.
+A high-level, **buyer-friendly demo** of the Cylix AI-driven cybersecurity platform focused on purple-team validation and continuous control testing.
 
 This public repository is designed for **prospective buyers, MSSPs, and security leaders** who want to:
 
@@ -14,7 +14,7 @@ This public repository is designed for **prospective buyers, MSSPs, and security
 
 ## What is Cylix?
 
-Cylix is an **AI-driven cybersecurity and purple-team validation platform**, not just a simple scanner.
+Cylix is an **AI-driven cybersecurity platform for purple-team validation and threat investigation**.
 
 It helps security teams:
 
@@ -30,11 +30,11 @@ Designed for:
 
 ---
 
-## What Cylix Is *Not*
+## Where Cylix Focuses (vs. Traditional Scanners)
 
-Cylix is **not** just a point-and-shoot vulnerability scanner.
+Traditional point-and-shoot vulnerability scanners focus on isolated checks and raw lists of issues.
 
-Instead, it focuses on:
+Cylix focuses on:
 
 - **Campaigns and attack chains**, not one-off checks
 - **Threat-centric investigations**, not raw lists of findings
