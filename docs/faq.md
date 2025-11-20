@@ -8,7 +8,7 @@ This FAQ covers common questions from **prospective buyers and MSSPs** reviewing
 
 ### What is Cylix?
 
-Cylix is an **AI-driven cybersecurity and purple-team validation platform** that helps organizations continuously test defenses, prioritize threats, and communicate risk.
+Cylix is an **XDR (Extended Detection & Response) platform with autonomous AI orchestration and purple-team validation capabilities**. It helps organizations continuously test defenses, detect and investigate threats, and communicate risk.
 
 ### Is this open source?
 
