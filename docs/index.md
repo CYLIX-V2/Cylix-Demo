@@ -1,6 +1,6 @@
 # Cylix Demo Overview
 
-Welcome to the **Cylix Demo** site. This is a high-level, non-sensitive overview of the Cylix AI-driven cybersecurity platform for purple-team validation and threat investigation.
+Welcome to the **Cylix Demo** site. This is a high-level, non-sensitive overview of the Cylix XDR (Extended Detection & Response) platform with **autonomous AI orchestration**, designed for purple-team validation, threat detection, and automated response.
 
 This page is designed for:
 
@@ -10,71 +10,63 @@ This page is designed for:
 
 ---
 
-## What Cylix Helps You Do
+## What Cylix Delivers
 
-- **Continuously validate your defenses** with campaigns and simulations
-- **Prioritize and investigate threats** with AI copilots and guided workflows
-- **Communicate risk and coverage** clearly to executives and stakeholders
+- **Unified threat detection** across endpoints, network, cloud, and identity domains (XDR)
+- **Autonomous AI orchestration** with multi-agent systems and human oversight
+- **Automated purple-team validation** with attack emulation and defensive testing
+- **Advanced security layers** including RASP, NGIPS, behavioral analytics, and deception
+- **Multi-tenant MSSP architecture** for managing multiple customers from a single platform
 
 At a high level, Cylix combines:
 
-- Campaign-based control validation and purple teaming
-- Threat-centric dashboards and analytics
-- AI-assisted investigation and reporting
+- XDR platform with multi-domain correlation
+- Autonomous AI orchestration and multi-agent systems
+- Purple-team automation framework
+- Advanced security stack (RASP, NGIPS, UEBA, deception)
+- Mission and campaign orchestration
 
 ---
 
-## Beyond Simple Scanning
+## Platform Architecture
 
-Traditional scanners tend to focus on point-in-time checks and long lists of issues.
+### XDR (Extended Detection & Response)
 
-Cylix is a platform for:
+- **Multi-Domain Correlation**: Unified detection across endpoints, network, cloud, identity
+- **Automated Incident Response**: Orchestrated response across all security components
+- **Cross-Component Intelligence**: Threat data sharing between RASP, NGIPS, behavioral analytics, deception
+- **MITRE ATT&CK Integration**: Framework-aligned detection and response
 
-- Designing and running **multi-step validation campaigns**
-- Mapping activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
-- Driving **end-to-end investigations**, from initial signal to executive summary
+### Autonomous AI Orchestration
 
-Where scanners typically produce raw lists of issues, Cylix focuses on:
+- **Multi-Agent AI System**: Specialized agents for reconnaissance, decision-making, analysis, and response
+- **Policy Enforcement**: Decision governance with operational guardrails
+- **Human-in-the-Loop**: Approval workflows for critical decisions
+- **Swarm Intelligence**: Collective agent coordination
+- **Reinforcement Learning**: Adaptive improvement through operational feedback
 
-- **Attack paths and campaign context**
-- **Analyst workflows and collaboration**
-- **Narrative reporting** for both technical and business audiences
+### Purple-Team Automation Framework
 
----
+- **Attack Emulation Engine**: Modular attack simulation with MITRE ATT&CK alignment
+- **Defensive Validation**: Automated testing of security controls
+- **Live Feedback Loops**: Real-time attack/defense collaboration
+- **Campaign Orchestration**: Multi-step validation campaigns
+- **Coverage Analysis**: Continuous detection effectiveness measurement
 
-## Deep Capabilities (Highlights)
+### Advanced Security Layers
 
-### Campaign Builder
+- **RASP**: Runtime Application Self-Protection with real-time threat blocking
+- **NGIPS**: ML-enhanced network intrusion prevention
+- **UEBA**: User and entity behavior anomaly detection
+- **Deception Technology**: Honeypots and decoy systems
+- **Quantum-Resistant Crypto**: Post-quantum security
 
-- Build **multi-step validation campaigns** that chain techniques and conditions
-- Reuse campaigns across clients and environments
-- Compare how different environments respond to the same scenarios
+### Multi-Tenant MSSP Platform
 
-### Multi-Tenant MSSP Workflows
-
-- Designed so MSSPs can manage **many tenants from a single pane of glass**
-- Standardized playbooks and reports for consistent service delivery
-- Visibility across tenants without exposing client data between them
-
-### AI Playbooks & Customizable Agents
-
-- AI-driven playbooks that help analysts:
-  - Triage and prioritize alerts
-  - Decide on next best investigative steps
-  - Produce summaries for leadership
-- Agents can be **tuned to your style** (aggressive hunting vs. conservative triage, etc.)
-
-### Federated-Learning-Oriented Design
-
-- Architecture oriented toward **learning from patterns** across environments while keeping tenant data isolated
-- Helps MSSPs leverage cross-tenant intelligence **without sharing raw data**
-
-### Reporting & Compliance Views
-
-- Reporting modules for:
-  - Technical detail (campaigns, evidence, timelines)
-  - Executive and board-level summaries (risk, trends, coverage)
-- Support for communicating **control coverage** against common frameworks
+- **Tenant Isolation**: Complete data and operational separation
+- **Cross-Tenant Analytics**: Aggregated insights without data exposure
+- **Resource Management**: Per-tenant quotas and scaling
+- **Federated Learning**: Cross-environment pattern recognition with isolation
 
 ---
 
@@ -130,9 +122,9 @@ No. This repository is intentionally limited to **non-sensitive, demo-friendly c
 
 ### Who is Cylix for?
 
-- **MSSPs / MDR providers** who want scalable validation and investigation capabilities
-- **Enterprise security teams** who need to understand how well their controls respond to real-world techniques
-- **Security leadership** who want better visibility into coverage and program maturity
+- **MSSPs / MDR providers** who need an enterprise-grade, multi-tenant XDR platform with automated purple-team validation
+- **Enterprise security teams** who want autonomous AI orchestration with advanced detection and response capabilities
+- **Security leadership** who need unified visibility across all security domains with executive-ready reporting
 
 ### How do I see a live demo?
 
