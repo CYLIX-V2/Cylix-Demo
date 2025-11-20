@@ -1,6 +1,6 @@
 # Cylix Demo Platform
 
-A high-level, **buyer-friendly demo** of the Cylix AI-driven cybersecurity platform focused on purple-team validation and continuous control testing.
+A high-level, **buyer-friendly demo** of the Cylix XDR (Extended Detection & Response) platform with **autonomous AI orchestration**, focused on purple-team validation, threat detection, and continuous control testing.
 
 This public repository is designed for **prospective buyers, MSSPs, and security leaders** who want to:
 
@@ -14,13 +14,15 @@ This public repository is designed for **prospective buyers, MSSPs, and security
 
 ## What is Cylix?
 
-Cylix is an **AI-driven cybersecurity platform for purple-team validation and threat investigation**.
+Cylix is an **XDR (Extended Detection & Response) platform with autonomous AI orchestration** designed for purple-team validation, threat detection, and automated response.
 
-It helps security teams:
+It combines:
 
-- Continuously **validate defenses** and security controls under realistic conditions
-- **Prioritize and investigate threats** with AI copilots and guided playbooks
-- Generate **executive-ready reports** on exposure, coverage, and program maturity
+- **Unified threat detection** across endpoints, network, cloud, and identity domains
+- **Autonomous AI orchestration** with multi-agent systems and human-in-the-loop oversight
+- **Automated purple-team validation** with attack emulation and defensive testing
+- **Advanced security layers** including RASP, NGIPS, behavioral analytics, and deception technology
+- **Multi-tenant MSSP architecture** for managing multiple customers from a single control plane
 
 Designed for:
 
@@ -30,69 +32,90 @@ Designed for:
 
 ---
 
-## Where Cylix Focuses (vs. Traditional Scanners)
+## For Acquirers (Full Platform IP Sale)
 
-Traditional point-and-shoot vulnerability scanners focus on isolated checks and raw lists of issues.
+This public demo shows **only non-sensitive UI screenshots and high-level documentation**.
 
-Cylix focuses on:
+The underlying **Cylix V2 platform** is available for a **one-time acquisition of the full IP**, including:
 
-- **Campaigns and attack chains**, not one-off checks
-- **Threat-centric investigations**, not raw lists of findings
-- **Continuous assurance**, not ad-hoc, once-a-year tests
+- Full source code for backend, frontend, agents, and supporting services
+- Complete deployment assets (Docker, Kubernetes, Helm, monitoring stack)
+- Comprehensive documentation (security architecture, API reference, deployment, operations)
+- MSSP program assets and buyer evaluation guides
+- A curated buyer readiness package (quality, security, and test status)
+
+Highlights of the full platform (verified in codebase):
+
+- **XDR Platform**: Unified detection & response across network, endpoint, cloud, and identity domains with multi-domain correlation
+- **Autonomous AI Orchestration**: Multi-agent AI system with policy enforcement, decision governance, and human oversight controls
+- **Purple-Team Automation Framework**: Full attack emulation engine, defensive validation, live feedback loops, and MITRE ATT&CK integration
+- **Advanced Security Stack**: RASP (Runtime Application Self-Protection), NGIPS, UEBA behavioral analytics, deception technology, and quantum-resistant cryptography
+- **Multi-Agent AI System**: Specialized agents for reconnaissance, decision-making, analysis, and action with swarm intelligence coordination
+- **Mission Orchestration**: Complex campaign planning and execution framework for multi-step security operations
+- **Multi-Tenant MSSP Architecture**: Enterprise-grade tenant isolation, cross-tenant analytics, and resource management
+- **Compliance Orchestration**: Automated evidence collection and framework support (SOC2, ISO27001, NIST CSF)
+- **Federated Learning**: Architecture for cross-environment pattern learning while maintaining tenant data isolation
+
+Detailed acquisition materials (technical metrics, readiness reports, and roadmap) live in the private buyer documentation and can be shared under NDA.
 
 ---
 
-## Key Capabilities (At a Glance)
+## Core Platform Architecture
 
-- **Campaign builder for purple teaming & control validation**
-  - Design and run **multi-step validation campaigns** instead of one-off checks
-  - Map activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
+### XDR (Extended Detection & Response)
 
-- **Multi-tenant MSSP workflows**
-  - Support for managing **many clients from a single platform**
-  - Standardized playbooks and reporting so MSSPs can deliver consistent outcomes across tenants
+- **Multi-Domain Correlation**: Unified threat detection across endpoints, network, cloud, and identity
+- **Automated Incident Response**: Orchestrated response across security components
+- **Cross-Component Intelligence**: Threat data sharing between RASP, NGIPS, behavioral analytics, and deception layers
+- **Unified Alerting**: Single pane of glass for security operations with MITRE ATT&CK integration
 
-- **AI playbooks & customizable agents**
-  - AI-driven playbooks that guide investigations from alert to closure
-  - Configurable agents that can be tuned to your processes and risk appetite (for example: more aggressive hunting vs. conservative triage)
+### Autonomous AI Orchestration
 
-- **Federated learning–oriented design**
-  - Architecture designed to **learn from patterns across environments** while keeping sensitive customer data isolated
-  - Helps MSSPs and multi-tenant environments benefit from shared intelligence without raw data leaving the tenant boundary
+- **Multi-Agent AI System**: Specialized agents for reconnaissance, decision-making, analysis, and automated response
+- **Policy Enforcement Engine**: Decision governance with operational guardrails
+- **Human-in-the-Loop Oversight**: Approval workflows and notification controls for critical decisions
+- **Swarm Intelligence**: Collective agent coordination with distributed decision-making
+- **Reinforcement Learning**: Adaptive agents that improve through operational feedback
 
-- **Threat-centric dashboards**
-  - Unified view of **threats, alerts, and coverage** across the environment
-  - Visual breakdowns of high-risk assets, techniques, and trends
+### Purple-Team Automation Framework
 
-- **Reporting & analytics modules**
-  - Dedicated reporting views for:
-    - Technical teams (detailed findings, campaigns, evidence)
-    - Executives (summarized risk, trends, coverage)
-  - Exportable output suitable for **board-level and C-level briefings**
+- **Attack Emulation Engine**: Modular attack simulation with MITRE ATT&CK alignment
+- **Defensive Validation Engine**: Automated testing of security controls and detection capabilities
+- **Live Feedback Loops**: Real-time collaboration between attack and defense activities
+- **Campaign Orchestration**: Multi-step validation campaigns with automated reporting
+- **Coverage Analysis**: Continuous measurement of detection and response effectiveness
 
-- **Compliance & security posture support**
-  - Views aligned to common frameworks to help communicate **control coverage**
-  - Designed to support internal and external audits by showing how often controls are exercised and how they behave under simulated pressure
+### Advanced Security Layers
+
+- **RASP (Runtime Application Self-Protection)**: Real-time application-level threat blocking
+- **NGIPS (Next-Generation IPS)**: ML-enhanced network intrusion prevention
+- **UEBA (Behavioral Analytics)**: User and entity behavior anomaly detection
+- **Deception Technology**: Honeypots and decoy systems for threat detection
+- **Quantum-Resistant Cryptography**: Post-quantum security implementations
+
+### Multi-Tenant MSSP Platform
+
+- **Tenant Isolation**: Complete data and operational separation between customers
+- **Cross-Tenant Analytics**: Aggregated insights without exposing customer data
+- **Resource Management**: Per-tenant quotas and scaling controls
+- **Standardized Playbooks**: Consistent service delivery across all customers
+- **Federated Learning**: Pattern recognition across environments while maintaining isolation
+
+### Mission & Campaign Orchestration
+
+- **Complex Mission Planning**: Multi-phase security operations with dependency management
+- **Priority-Based Execution**: Dynamic scheduling based on threat level and business impact
+- **Status Tracking**: Real-time visibility into campaign progress and outcomes
+- **Automated Evidence Collection**: Comprehensive audit trails for compliance and analysis
+
+### Compliance & Reporting
+
+- **Automated Framework Support**: SOC2, ISO27001, NIST CSF compliance orchestration
+- **Policy-as-Code**: Automated policy enforcement and validation
+- **Executive Dashboards**: Board-level and C-suite ready reporting
+- **Audit Logging**: Comprehensive activity tracking for compliance evidence
 
 This demo repo focuses on **showing what the platform looks like and how it’s used**, not on implementation details.
-
----
-
-## Architecture & Quality (High Level)
-
-Cylix is built as a **modular, service-oriented platform**, with:
-
-- A modern web UI and API-driven backend
-- Clear separation between **control plane** and **execution/agent layers**
-- Strong emphasis on **observability, logging, and testability**
-
-The private product repository includes:
-
-- Structured, type-aware code
-- Automated tests and quality checks
-- Deployment patterns suitable for modern cloud-native environments
-
-Those details live in the private Cylix codebase and are available to qualified buyers under NDA.
 
 ---
 
