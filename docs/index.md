@@ -24,6 +24,24 @@ At a high level, Cylix combines:
 
 ---
 
+## Beyond Simple Scanning
+
+Cylix is **not** just a scanner.
+
+It is a platform for:
+
+- Designing and running **multi-step adversary campaigns**
+- Mapping activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
+- Driving **end-to-end investigations**, from initial signal to executive summary
+
+Where scanners typically produce raw lists of issues, Cylix focuses on:
+
+- **Attack paths and campaign context**
+- **Analyst workflows and collaboration**
+- **Narrative reporting** for both technical and business audiences
+
+---
+
 ## Platform Highlights
 
 ### AI-Assisted Investigations
