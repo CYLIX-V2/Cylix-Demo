@@ -8,7 +8,7 @@ This FAQ covers common questions from **prospective buyers and MSSPs** reviewing
 
 ### What is Cylix?
 
-Cylix is an **offensive security and AI investigation platform** that helps organizations continuously test defenses, prioritize threats, and communicate risk.
+Cylix is an **AI-driven cybersecurity and purple-team validation platform** that helps organizations continuously test defenses, prioritize threats, and communicate risk.
 
 ### Is this open source?
 
@@ -70,7 +70,7 @@ Use the contact details above to request technical materials.
 
 Yes. Cylix is built with **multi-tenant, repeatable workflows** in mind:
 
-- Standardized offensive playbooks
+- Standardized **purple-team and validation playbooks**
 - Consistent reporting for many clients
 - AI assistance to keep analyst workloads manageable
 
