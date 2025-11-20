@@ -54,7 +54,7 @@ Reach out to the Cylix team to schedule:
 **Contact:**
 
 - Website: https://cylixsecurity.com
-- Email: support@cylixsecurity.com
+- Email: shea83409@gmail.com
 
 ### How do I get technical documentation?
 
@@ -80,4 +80,4 @@ Cylix is designed to work alongside existing security tools and telemetry source
 
 ---
 
-If you have questions not covered here, please contact **support@cylixsecurity.com**.
+If you have questions not covered here, please contact **shea83409@gmail.com**.
