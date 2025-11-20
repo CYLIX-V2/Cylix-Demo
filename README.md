@@ -14,7 +14,9 @@ This public repository is designed for **prospective buyers, MSSPs, and security
 
 ## What is Cylix?
 
-Cylix is an **offensive security and AI investigation platform** that helps security teams:
+Cylix is an **offensive security and AI investigation platform**, not just a simple scanner.
+
+It helps security teams:
 
 - Continuously **simulate adversaries** and validate security controls
 - **Prioritize and investigate threats** with AI copilots and guided playbooks
@@ -28,51 +30,75 @@ Designed for:
 
 ---
 
-## Key Capabilities (at a glance)
+## What Cylix Is *Not*
+
+Cylix is **not** just a point-and-shoot vulnerability scanner.
+
+Instead, it focuses on:
+
+- **Campaigns and attack chains**, not one-off checks
+- **Threat-centric investigations**, not raw lists of findings
+- **Continuous assurance**, not ad-hoc, once-a-year tests
+
+---
+
+## Key Capabilities (At a Glance)
+
+- **Offensive simulations & campaigns**
+  - Model attacker behavior and techniques to test real-world readiness
+  - Run repeatable campaigns aligned to frameworks such as NIST CSF and MITRE ATT&CK
 
 - **AI-assisted investigations**
-  - Security copilots that help triage alerts, suggest next steps, and summarize impact
+  - Security copilots that help triage alerts and prioritize what matters
+  - Guided next steps and natural-language summaries for analysts and executives
 
 - **Threat-centric dashboards**
   - Unified view of **threats, alerts, and coverage** across the environment
   - Visual breakdowns of high-risk assets, techniques, and trends
 
-- **Simulated adversary campaigns**
-  - Model specific threat actors or techniques and see how your stack responds
-
 - **Reporting & analytics**
-  - Upper- and lower-console views for analysts vs. leadership
+  - Upper- and lower-console views tuned for analysts vs. leadership
   - Exportable findings and summaries for executive audiences
 
 This demo repo focuses on **showing what the platform looks like and how it’s used**, not on implementation details.
 
 ---
 
-## Screenshots
+## Screenshots (Quick Preview)
 
 All screenshots in this repo are based on **mock / test data** only.
 
-From the `docs/assets/screenshots/` folder:
+### Dashboards & Analytics
 
-- **Main dashboards**
-  - `main-dashboard.png`
-  - `dashboard-analytics.png`
-  - `analytics-upper-console.png`
-  - `analytics-lower-console.png`
+![Main dashboard](docs/assets/screenshots/main-dashboard.png)
 
-- **Threat & alert views**
-  - `threat-console.png`
-  - `threat-list.png`
-  - `alerts-upper-console.png`
+![Dashboard analytics](docs/assets/screenshots/dashboard-analytics.png)
 
-- **AI & configuration views**
-  - `ai-agents-console.png`
-  - `custom-agents.png`
-  - `settings-upper-console.png`
-  - `styleguide-console.png`
-  - `security-report-upper-console.png`
+![Analytics upper console](docs/assets/screenshots/analytics-upper-console.png)
 
-You can also browse them directly from the GitHub UI under:
+![Analytics lower console](docs/assets/screenshots/analytics-lower-console.png)
+
+### Threat & Alert Views
+
+![Threat console](docs/assets/screenshots/threat-console.png)
+
+![Threat list](docs/assets/screenshots/threat-list.png)
+
+![Alerts upper console](docs/assets/screenshots/alerts-upper-console.png)
+
+### AI, Settings & Style
+
+![AI agents console](docs/assets/screenshots/ai-agents-console.png)
+
+![Custom agents](docs/assets/screenshots/custom-agents.png)
+
+![Settings upper console](docs/assets/screenshots/settings-upper-console.png)
+
+![Styleguide console](docs/assets/screenshots/styleguide-console.png)
+
+![Security report upper console](docs/assets/screenshots/security-report-upper-console.png)
+
+You can also browse the image files directly from the GitHub UI under:
 
 ```text
 docs/assets/screenshots/
