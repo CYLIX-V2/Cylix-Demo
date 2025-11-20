@@ -172,7 +172,7 @@ If you are evaluating Cylix and want:
 Please contact:
 
 - **Website:** https://cylixsecurity.com
-- **Email:** support@cylixsecurity.com
+- **Email:** shea83409@gmail.com
 
 > Production code, detailed runbooks, and full architecture documentation are provided separately to qualified buyers under NDA.
 
