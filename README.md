@@ -44,23 +44,55 @@ Instead, it focuses on:
 
 ## Key Capabilities (At a Glance)
 
-- **Offensive simulations & campaigns**
-  - Model attacker behavior and techniques to test real-world readiness
-  - Run repeatable campaigns aligned to frameworks such as NIST CSF and MITRE ATT&CK
+- **Campaign builder for offensive simulations**
+  - Design and run **multi-step adversary campaigns** instead of one-off checks
+  - Map activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
 
-- **AI-assisted investigations**
-  - Security copilots that help triage alerts and prioritize what matters
-  - Guided next steps and natural-language summaries for analysts and executives
+- **Multi-tenant MSSP workflows**
+  - Support for managing **many clients from a single platform**
+  - Standardized playbooks and reporting so MSSPs can deliver consistent outcomes across tenants
+
+- **AI playbooks & customizable agents**
+  - AI-driven playbooks that guide investigations from alert to closure
+  - Configurable agents that can be tuned to your processes and risk appetite (for example: more aggressive hunting vs. conservative triage)
+
+- **Federated learning–oriented design**
+  - Architecture designed to **learn from patterns across environments** while keeping sensitive customer data isolated
+  - Helps MSSPs and multi-tenant environments benefit from shared intelligence without raw data leaving the tenant boundary
 
 - **Threat-centric dashboards**
   - Unified view of **threats, alerts, and coverage** across the environment
   - Visual breakdowns of high-risk assets, techniques, and trends
 
-- **Reporting & analytics**
-  - Upper- and lower-console views tuned for analysts vs. leadership
-  - Exportable findings and summaries for executive audiences
+- **Reporting & analytics modules**
+  - Dedicated reporting views for:
+    - Technical teams (detailed findings, campaigns, evidence)
+    - Executives (summarized risk, trends, coverage)
+  - Exportable output suitable for **board-level and C-level briefings**
+
+- **Compliance & security posture support**
+  - Views aligned to common frameworks to help communicate **control coverage**
+  - Designed to support internal and external audits by showing how often controls are exercised and how they behave under simulated pressure
 
 This demo repo focuses on **showing what the platform looks like and how it’s used**, not on implementation details.
+
+---
+
+## Architecture & Quality (High Level)
+
+Cylix is built as a **modular, service-oriented platform**, with:
+
+- A modern web UI and API-driven backend
+- Clear separation between **control plane** and **execution/agent layers**
+- Strong emphasis on **observability, logging, and testability**
+
+The private product repository includes:
+
+- Structured, type-aware code
+- Automated tests and quality checks
+- Deployment patterns suitable for modern cloud-native environments
+
+Those details live in the private Cylix codebase and are available to qualified buyers under NDA.
 
 ---
 
