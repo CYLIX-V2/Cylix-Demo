@@ -1,6 +1,6 @@
 # Cylix Demo Platform
 
-A high-level, **buyer-friendly demo** of the Cylix offensive security & AI-driven investigation platform.
+A high-level, **buyer-friendly demo** of the Cylix AI-driven cybersecurity and purple-team validation platform.
 
 This public repository is designed for **prospective buyers, MSSPs, and security leaders** who want to:
 
@@ -14,18 +14,18 @@ This public repository is designed for **prospective buyers, MSSPs, and security
 
 ## What is Cylix?
 
-Cylix is an **offensive security and AI investigation platform**, not just a simple scanner.
+Cylix is an **AI-driven cybersecurity and purple-team validation platform**, not just a simple scanner.
 
 It helps security teams:
 
-- Continuously **simulate adversaries** and validate security controls
+- Continuously **validate defenses** and security controls under realistic conditions
 - **Prioritize and investigate threats** with AI copilots and guided playbooks
 - Generate **executive-ready reports** on exposure, coverage, and program maturity
 
 Designed for:
 
-- **MSSPs / MDR providers** who need repeatable, scalable offensive capabilities
-- **Enterprise red / purple teams** who want automation without losing control
+- **MSSPs / MDR providers** who need repeatable, scalable validation and investigation capabilities
+- **Enterprise blue / red / purple teams** who want automation without losing control
 - **Security leaders (CISO, VP Security)** who need clear visibility into risk and ROI
 
 ---
@@ -44,8 +44,8 @@ Instead, it focuses on:
 
 ## Key Capabilities (At a Glance)
 
-- **Campaign builder for offensive simulations**
-  - Design and run **multi-step adversary campaigns** instead of one-off checks
+- **Campaign builder for purple teaming & control validation**
+  - Design and run **multi-step validation campaigns** instead of one-off checks
   - Map activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
 
 - **Multi-tenant MSSP workflows**
