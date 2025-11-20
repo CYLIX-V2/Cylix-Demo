@@ -1,24 +1,24 @@
 # Cylix Demo Overview
 
-Welcome to the **Cylix Demo** site. This is a high-level, non-sensitive overview of the Cylix offensive security and AI-driven investigation platform.
+Welcome to the **Cylix Demo** site. This is a high-level, non-sensitive overview of the Cylix AI-driven cybersecurity and purple-team validation platform.
 
 This page is designed for:
 
 - Security leaders (CISO, VP of Security)
 - MSSPs and MDR providers
-- Red / purple team leads and architects
+- Red / blue / purple team leads and architects
 
 ---
 
 ## What Cylix Helps You Do
 
-- **Continuously test your defenses** with offensive simulations and campaigns
+- **Continuously validate your defenses** with campaigns and simulations
 - **Prioritize and investigate threats** with AI copilots and guided workflows
 - **Communicate risk and coverage** clearly to executives and stakeholders
 
 At a high level, Cylix combines:
 
-- Offensive testing and adversary simulation
+- Campaign-based control validation and purple teaming
 - Threat-centric dashboards and analytics
 - AI-assisted investigation and reporting
 
@@ -30,7 +30,7 @@ Cylix is **not** just a scanner.
 
 It is a platform for:
 
-- Designing and running **multi-step adversary campaigns**
+- Designing and running **multi-step validation campaigns**
 - Mapping activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
 - Driving **end-to-end investigations**, from initial signal to executive summary
 
@@ -46,7 +46,7 @@ Where scanners typically produce raw lists of issues, Cylix focuses on:
 
 ### Campaign Builder
 
-- Build **multi-step offensive campaigns** that chain techniques and conditions
+- Build **multi-step validation campaigns** that chain techniques and conditions
 - Reuse campaigns across clients and environments
 - Compare how different environments respond to the same scenarios
 
@@ -130,7 +130,7 @@ No. This repository is intentionally limited to **non-sensitive, demo-friendly c
 
 ### Who is Cylix for?
 
-- **MSSPs / MDR providers** who want scalable offensive capabilities and investigation support
+- **MSSPs / MDR providers** who want scalable validation and investigation capabilities
 - **Enterprise security teams** who need to understand how well their controls respond to real-world techniques
 - **Security leadership** who want better visibility into coverage and program maturity
 
