@@ -1,6 +1,6 @@
 # Cylix Demo Overview
 
-Welcome to the **Cylix Demo** site. This is a high-level, non-sensitive overview of the Cylix AI-driven cybersecurity and purple-team validation platform.
+Welcome to the **Cylix Demo** site. This is a high-level, non-sensitive overview of the Cylix AI-driven cybersecurity platform for purple-team validation and threat investigation.
 
 This page is designed for:
 
@@ -26,9 +26,9 @@ At a high level, Cylix combines:
 
 ## Beyond Simple Scanning
 
-Cylix is **not** just a scanner.
+Traditional scanners tend to focus on point-in-time checks and long lists of issues.
 
-It is a platform for:
+Cylix is a platform for:
 
 - Designing and running **multi-step validation campaigns**
 - Mapping activity to frameworks such as **NIST CSF, MITRE ATT&CK, and OWASP**
