@@ -131,7 +131,7 @@ No. This repository is intentionally limited to **non-sensitive, demo-friendly c
 Contact the Cylix team:
 
 - **Website:** https://cylixsecurity.com
-- **Email:** support@cylixsecurity.com
+- **Email:** shea83409@gmail.com
 
 We can schedule a **guided, live walkthrough** and discuss evaluation options.
 
