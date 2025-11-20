@@ -42,28 +42,39 @@ Where scanners typically produce raw lists of issues, Cylix focuses on:
 
 ---
 
-## Platform Highlights
+## Deep Capabilities (Highlights)
 
-### AI-Assisted Investigations
+### Campaign Builder
 
-- AI agents help analysts:
-  - Triage new alerts
-  - Suggest next investigative steps
-  - Summarize findings in analyst- and executive-ready language
+- Build **multi-step offensive campaigns** that chain techniques and conditions
+- Reuse campaigns across clients and environments
+- Compare how different environments respond to the same scenarios
 
-### Threat & Alert Consoles
+### Multi-Tenant MSSP Workflows
 
-- Dedicated consoles for:
-  - **Threats and campaigns** (who is targeting what)
-  - **Alerts and signals** (what the stack is actually seeing)
-- Designed to reduce noise and surface **high-impact events** first.
+- Designed so MSSPs can manage **many tenants from a single pane of glass**
+- Standardized playbooks and reports for consistent service delivery
+- Visibility across tenants without exposing client data between them
 
-### Dashboards & Analytics
+### AI Playbooks & Customizable Agents
 
-- High-level analytics for:
-  - Exposure and coverage
-  - Technique and control mapping
-  - Trends over time
+- AI-driven playbooks that help analysts:
+  - Triage and prioritize alerts
+  - Decide on next best investigative steps
+  - Produce summaries for leadership
+- Agents can be **tuned to your style** (aggressive hunting vs. conservative triage, etc.)
+
+### Federated-Learning-Oriented Design
+
+- Architecture oriented toward **learning from patterns** across environments while keeping tenant data isolated
+- Helps MSSPs leverage cross-tenant intelligence **without sharing raw data**
+
+### Reporting & Compliance Views
+
+- Reporting modules for:
+  - Technical detail (campaigns, evidence, timelines)
+  - Executive and board-level summaries (risk, trends, coverage)
+- Support for communicating **control coverage** against common frameworks
 
 ---
 
