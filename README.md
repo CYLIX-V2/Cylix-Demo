@@ -8,7 +8,13 @@ This public repository is designed for **prospective buyers, MSSPs, and security
 - See **UI screenshots** of the dashboards, threat views, and AI assistants
 - Review non-sensitive, public-facing documentation (overview, FAQ, evaluation guidance)
 
-> **Important:** This repo contains **no proprietary source code**. It is strictly for demo, marketing, and documentation purposes.
+In a **5–10 minute pass through this repo and the GitHub Pages demo**, you can:
+
+- Walk the main XDR and mission dashboards to see how incidents and campaigns are represented
+- Skim how AI-driven missions, purple-team exercises, and MSSP multi-tenant views appear in the UI
+- Map those screens to your own environment (MSSP, enterprise, or product line) and evaluate fit for acquisition
+
+> **Important:** This repo contains **no proprietary source code**. It is strictly for demo, marketing, and documentation purposes. The underlying Cylix V2 platform is offered as a **one-time IP acquisition**, not as a recurring SaaS subscription or managed service.
 
 ---
 
@@ -55,6 +61,26 @@ Highlights of the full platform (verified in codebase):
 - **Multi-Tenant MSSP Architecture**: Enterprise-grade tenant isolation, cross-tenant analytics, and resource management
 - **Compliance Orchestration**: Automated evidence collection and framework support (SOC2, ISO27001, NIST CSF)
 - **Federated Learning**: Architecture for cross-environment pattern learning while maintaining tenant data isolation
+
+### Why acquire instead of build?
+
+Based on the shipped code and documentation, Cylix V2 is positioned as a **build-vs-buy accelerator**:
+
+- **Enterprise-grade architecture is already in place** (FastAPI backend, React/TypeScript UI, Kubernetes/Helm deployment, observability, multi-tenant MSSP patterns).
+- **XDR + SOAR + UEBA + purple-team design work is largely done**, including mission-oriented orchestration, the AI Director, and federated learning primitives.
+- **Security and compliance groundwork is documented** (threat models, zero-trust patterns, NIST CSF / SOC 2 / ISO 27001 mappings).
+- **Deployment, operations, and buyer-ready docs exist**, reducing the time from acquisition to a rebranded, marketable offering.
+
+### Real-incident alignment (Cloudflare, Microsoft, MOVEit, MGM, Change Healthcare)
+
+A separate buyer report walks through how Cylix would have helped in several high-profile incidents (Cloudflare Thanksgiving 2023; Microsoft Midnight Blizzard and Storm-0558; MOVEit mass exploitation; MGM Resorts; Change Healthcare). In each case, Cylix is used to:
+
+- Detect identity abuse and service account misuse earlier via UEBA and mission triggers.
+- Correlate anomalous email, data access, and lateral movement across identity, network, and application telemetry.
+- Orchestrate containment actions (account lockdowns, host isolation, WAF/IPS updates, secret rotation) via AI-driven playbooks.
+- Provide post-incident reporting and coverage analysis for leadership and regulators.
+
+This gives acquirers a concrete, case-study-style way to explain Cylix to their own customers.
 
 Detailed acquisition materials (technical metrics, readiness reports, and roadmap) live in the private buyer documentation and can be shared under NDA.
 
@@ -182,5 +208,5 @@ Please contact:
 
 This repository contains **demo-only assets** (text, images, and sample snippets). See `LICENSE` for terms of use.
 
-- You may use this demo site and materials to **evaluate Cylix** as a potential buyer or partner.
+- You may use this demo site and materials to **evaluate Cylix** as a potential **acquisition target or IP purchase**.
 - You may **not** reuse, redistribute, or white-label this content without written permission from CYLIX-V2.

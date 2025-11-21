@@ -10,6 +10,17 @@ This page is designed for:
 
 ---
 
+## Quick tour (5 minutes)
+
+If you're evaluating Cylix as a **one-time IP acquisition**, start with:
+
+1. **Dashboards & Analytics screenshots** below on this page to see how XDR and mission views look.
+2. **Threat & Alert Views** to understand how incidents, findings, and AI missions are presented.
+3. **AI, Settings & Style** to glimpse how AI agents, custom agents, and tenant/settings views surface in the UI.
+4. The main **README on GitHub** to review what assets are included in an acquisition and how the platform fits alongside your existing stack.
+
+Then, if you're interested, use the contact information at the bottom to request the full buyer pack (architecture docs, incident case studies, readiness reports).
+
 ## What Cylix Delivers
 
 - **Unified threat detection** across endpoints, network, cloud, and identity domains (XDR)
@@ -110,7 +121,7 @@ All images below are based on **mock / test data**, not real customer environmen
 
 ### Is this the full product?
 
-No. This demo focuses on **screenshots and high-level documentation** only. The full platform, including source code and deployment assets, is provided to qualified buyers under NDA.
+No. This demo focuses on **screenshots and high-level documentation** only. The full platform, including source code and deployment assets, is provided to qualified buyers under NDA as part of a **one-time IP acquisition**, not as an ongoing subscription service.
 
 ### Does this repo contain proprietary code?
 

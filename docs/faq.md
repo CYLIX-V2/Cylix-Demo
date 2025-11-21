@@ -22,6 +22,10 @@ No. There is **no production source code** in this repository. It contains:
 - High-level overview and FAQ
 - Content intended for public demos and buyers
 
+### Is Cylix being sold as a service or as a one-time transaction?
+
+Cylix V2 is being offered as a **one-time IP / source code acquisition** (platform, documentation, deployment assets). It is **not** an ongoing SaaS subscription or managed service.
+
 ---
 
 ## Security & Data
@@ -37,7 +41,7 @@ Not without permission. See `LICENSE`:
 - All assets here are the property of **CYLIX-V2**.
 - Unauthorized reuse, redistribution, or white-labeling is not allowed.
 
-If you are interested in co-marketing or partnership content, contact us.
+If you are evaluating an acquisition and need customized collateral for internal review, contact us.
 
 ---
 
