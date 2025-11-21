@@ -47,17 +47,12 @@ If you are evaluating an acquisition and need customized collateral for internal
 
 ## Evaluation & Next Steps
 
-### How can I see a full demo?
+### How can I evaluate Cylix V2?
 
-Reach out to the Cylix team to schedule:
-
-- A live product walkthrough
-- A deep-dive technical session
-- A tailored proof-of-concept (POC)
+Email **shea83409@gmail.com** to request access to the source code and supporting technical documentation (subject to appropriate terms).
 
 **Contact:**
 
-- Website: https://cylixsecurity.com
 - Email: shea83409@gmail.com
 
 ### How do I get technical documentation?

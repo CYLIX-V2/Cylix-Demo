@@ -191,16 +191,14 @@ docs/assets/screenshots/
 
 If you are evaluating Cylix and want:
 
-- A **guided demo** with a human from the Cylix team
-- Detailed **technical documentation** and architecture
-- Access to a full **evaluation or POC environment**
+- Access to the **full source code** and technical documentation under appropriate terms
+- Clarification on architecture, deployment, and integration details
 
 Please contact:
 
-- **Website:** https://cylixsecurity.com
 - **Email:** shea83409@gmail.com
 
-> Production code, detailed runbooks, and full architecture documentation are provided separately to qualified buyers under NDA.
+> Source code and detailed documentation are provided directly to qualified buyers under appropriate agreements.
 
 ---
 

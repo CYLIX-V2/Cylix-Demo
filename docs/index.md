@@ -137,14 +137,9 @@ No. This repository is intentionally limited to **non-sensitive, demo-friendly c
 - **Enterprise security teams** who want autonomous AI orchestration with advanced detection and response capabilities
 - **Security leadership** who need unified visibility across all security domains with executive-ready reporting
 
-### How do I see a live demo?
+### How do I evaluate Cylix beyond this page?
 
-Contact the Cylix team:
-
-- **Website:** https://cylixsecurity.com
-- **Email:** shea83409@gmail.com
-
-We can schedule a **guided, live walkthrough** and discuss evaluation options.
+Email **shea83409@gmail.com** to request access to the source code and supporting technical documentation (subject to appropriate terms).
 
 ---
 
@@ -153,8 +148,7 @@ We can schedule a **guided, live walkthrough** and discuss evaluation options.
 1. Review this demo site to understand the core concepts and UI.
 2. Share the link with internal stakeholders (security, IT, leadership).
 3. Reach out to the Cylix team for:
-   - A deeper technical session
    - Architecture and integration details
-   - A tailored proof-of-concept or pilot.
+   - Any clarifications needed while reviewing the codebase and docs.
 
 Thank you for your interest in Cylix.
