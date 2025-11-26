@@ -1,8 +1,8 @@
 # Cylix Demo Platform
 
-A high-level, **buyer-friendly demo** of the Cylix XDR (Extended Detection & Response) platform with **autonomous AI orchestration**, focused on purple-team validation, threat detection, and continuous control testing.
+A high-level, **buyer- and cofounder-friendly demo** of the Cylix XDR (Extended Detection & Response) platform with **autonomous AI orchestration**, focused on purple-team validation, threat detection, and continuous control testing.
 
-This public repository is designed for **prospective buyers, MSSPs, and security leaders** who want to:
+This public repository is designed for **prospective buyers, MSSPs, security leaders, and potential technical/security cofounders** who want to:
 
 - Understand what Cylix does and where it fits in their stack
 - See **UI screenshots** of the dashboards, threat views, and AI assistants
@@ -12,7 +12,7 @@ In a **5–10 minute pass through this repo and the GitHub Pages demo**, you can
 
 - Walk the main XDR and mission dashboards to see how incidents and campaigns are represented
 - Skim how AI-driven missions, purple-team exercises, and MSSP multi-tenant views appear in the UI
-- Map those screens to your own environment (MSSP, enterprise, or product line) and evaluate fit for acquisition
+- Map those screens to your own environment (MSSP, enterprise, or product line) and evaluate fit for acquisition or cofounding
 
 > **Important:** This repo contains **no proprietary source code**. It is strictly for demo, marketing, and documentation purposes. The underlying Cylix V2 platform is offered as a **one-time IP acquisition**, not as a recurring SaaS subscription or managed service.
 
@@ -35,6 +35,7 @@ Designed for:
 - **MSSPs / MDR providers** who need repeatable, scalable validation and investigation capabilities
 - **Enterprise blue / red / purple teams** who want automation without losing control
 - **Security leaders (CISO, VP Security)** who need clear visibility into risk and ROI
+- **Potential cofounders** who want to evaluate Cylix as a foundation for a mission-centric XDR/SOC product
 
 ---
 
