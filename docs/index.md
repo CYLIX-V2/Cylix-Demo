@@ -1,3 +1,5 @@
+<a href='https://www.sideprojectors.com/project/69135/cylixcylix' alt='CYLIX/Cylix is looking for a co-founder / collaborator at @SideProjectors'><img style='position:fixed;z-index:1000;top:-5px; right: 20px; border: 0;' src='https://www.sideprojectors.com/img/badges/badge_2_red_cofounder.png' alt='CYLIX/Cylix is looking for a co-founder / collaborator at @SideProjectors'></a>
+
 # Cylix Demo & Cofounder Overview
 
 Welcome to the **Cylix Demo** site. Cylix is **A mission‑centric, multi‑tenant security operations / XDR orchestration platform** with **autonomous AI orchestration**, designed for purple-team validation, threat detection, and automated response.
